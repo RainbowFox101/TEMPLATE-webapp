@@ -31,21 +31,21 @@ Also called "Scrum", the work is broken down into manageable, bite-sized chunks 
 
 #### Roles
 
-- Product Owner (Mr. Scheuerlein)
-- Scrum Master (rotation throughout): *You will run the meetings at the start and end of each period. At the end of the week, meet with the Product Owner to determine what goes into the Sprint Backlog for the next Sprint and how much value to assign to each User Story.*
-- Team: *The team can be made up of developers, testers, writers and anyone else that helps build your product. Team Members often play multiple roles. You may need to do some research to complete your project!*
+- **Product Owner (Mr. Scheuerlein)**
+- **Scrum Master (rotation throughout)**: *You will run the meetings at the start and end of each period. At the end of the week, meet with the Product Owner to determine what goes into the Sprint Backlog for the next Sprint and how much value to assign to each User Story.*
+- **Team**: *The team can be made up of developers, testers, writers and anyone else that helps build your product. Team Members often play multiple roles. You may need to do some research to complete your project!*
 
 #### Artifacts
 
-- Product Backlog: *This is a complete set of User Stories that describe the features you want in your final product.*
-- User Stories: *These are a way of describing a feature-set. The most important User Stories get put into the Sprint Backlog.*
-- Sprint Backlog: *This contains the User Stories which you intend to complete this week.*
+- **Product Backlog**: *This is a complete set of User Stories that describe the features you want in your final product.*
+- **User Stories**: *These are a way of describing a feature-set. The most important User Stories get put into the Sprint Backlog.*
+- **Sprint Backlog**: *This contains the User Stories which you intend to complete this week.*
 
 #### Ceremonies
 
-- Sprint Planning: *The Scrum Master meets with the Product Owner at the end of the week to determine which User Stories will be placed into next week's Sprint Backlog.*
-- Daily Scrum: *A brief meeting at the beginning of each class period. Discuss what you've completed since your last meeting, what you are working on, and anything that might need help.*
-- Sprint Review: *This is done at the end of each week. Demonstrate your product to the Product Owner and discuss what could be done to improve the work process.*
+- **Sprint Planning**: *The Scrum Master meets with the Product Owner at the end of the week to determine which User Stories will be placed into next week's Sprint Backlog.*
+- **Daily Scrum**: *A brief meeting at the beginning of each class period. Discuss what you've completed since your last meeting, what you are working on, and anything that might need help.*
+- **Sprint Review**: *This is done at the end of each week. Demonstrate your product to the Product Owner and discuss what could be done to improve the work process.*
 
 #### Potentially Shippable Product
 

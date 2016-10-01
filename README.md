@@ -31,7 +31,7 @@ All of your javascript goes here. You may use jQuery also, if you wish.
 1. **Don't bite off more than you can chew!**
 2. **Focus on your strengths!** If your group feels very creative and strong with HTML/CSS then focus on that... but it had better be original and look amazing! (And of course, you still need to use *some* JavaScript)
 3. **Browse the web for ideas**, but don't use someone else's code if you can't understand it!
-4. **Divide and conquer!** Teams work best when they are each given a task to solve. If you've got a really difficult task, maybe have everyone come up with their own solution and see whose solution is best!
+4. **Divide and conquer!** Teams work best when each member is given a task to solve. If you've got a *really* difficult task, maybe have everyone come up with their own solution and see whose solution is best!
 
 ## Agile Programming
 

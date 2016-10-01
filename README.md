@@ -76,4 +76,4 @@ Remember, at this point in the project your web app should be a "working" produc
 
 ### Final Product (50 points / 37%)
 
-I will be grading the final product according to the rubric found on Learn@VCS. If nothing else, your code should at least tell me what it's supposed to do. Documenting your code with comments will be your saving grace if you were otherwise unsuccessful, and it will prevent you from getting an A if you were otherwise very successful.
+I will be grading the final product according to the rubric found on [Learn@VCS](http://learn.vcs.net). If nothing else, your code should at least tell me what it's supposed to do. Documenting your code with comments will be your saving grace if you were otherwise unsuccessful, and it will prevent you from getting an A if you were otherwise very successful.

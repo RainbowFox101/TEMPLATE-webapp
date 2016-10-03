@@ -33,10 +33,10 @@ All of your javascript goes here. You may use jQuery also, if you wish.
 3. **Browse the web for ideas**, but don't use someone else's code if you can't understand it!
 4. **Divide and conquer!** Teams work best when each member is given a task to solve. If you've got a *really* difficult task, maybe have everyone come up with their own solution and see whose solution is best!
 
-## Agile Programming
+## Agile (or "Scrum") Programming
 
-### What is it?
-Also called "Scrum", the work is broken down into manageable, bite-sized chunks called "Sprints". Each Sprint will consist of 1 week and should result in a **Potentially Shippable Product** with an incremental improvement upon the previous week. 
+### Overview
+Work is broken down into manageable, bite-sized chunks called "Sprints". Each Sprint will consist of 1 week and should result in a **Potentially Shippable Product** with an incremental improvement upon the previous week. 
 
 ### Definitions
 
@@ -72,7 +72,7 @@ At the end of each week, Scrum Masters will submit their notes to Showbie for gr
 
 ### Halfway Point (25 points / 19%)
 
-Remember, at this point in the project your web app should be a "working" product. I will download the master branch of your code base and grade it according to the final product's rubric (but cut in half). After this point, you should just be adding incremental features to your project.
+Remember, at this point in the project your web app should be a "working" product. I will download the master branch of your code base and grade it according to the included final product's rubric (but cut in half). After this point, you should just be adding incremental features to your project.
 
 ### Final Product (50 points / 37%)
 

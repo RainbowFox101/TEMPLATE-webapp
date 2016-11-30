@@ -94,18 +94,20 @@ Describe your app here.
 ### Version 1.1
 
 #### Bug fixes
- - Fixed thing
- - Fixed other thing
+ * Fixed thing
+ * Fixed other thing
 
 #### Changes
- - Added thing
- - Added other cool thing
- - Added a group of related things:
-   - one
-   - two
-   - three
-   - four
- - Removed thing
+ * Added thing
+ * Added other cool thing
+ * Added a group of related things:
+   * one
+   * two
+   * three
+   * four
+ * Removed thing
+ * + If you want to be fancy, you can add plus signs to indicate additions and
+ * - Minus signs to indicate things you removed
 
 
 ### Version 1.0

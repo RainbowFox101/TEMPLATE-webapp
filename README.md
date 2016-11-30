@@ -79,3 +79,26 @@ Remember, at this point in the project your web app should be a "working" produc
 ### Final Product (50 points / 32%)
 
 I will be grading the final product according to the included rubric. If nothing else, your code should at least tell me what it's *supposed* to do.
+
+## Your README file
+
+Thank you for reading all of this. Now that you have your own project on GitHub, you need to replace all of this file with your own information. Use the following template:
+
+# Put your App Name Here!
+
+## Description
+Describe your app here.
+
+## Release Notes
+
+### Version 1.0
+This is our initial release. We hope you enjoy it!
+
+#### Bug fixes
+ - Fixed thing
+ - Fixed other thing
+
+#### Changes
+ - Added thing
+ - Added other cool thing
+ - Removed thing

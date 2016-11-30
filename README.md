@@ -101,4 +101,9 @@ This is our initial release. We hope you enjoy it!
 #### Changes
  - Added thing
  - Added other cool thing
+ - Added a group of related things:
+   - one
+   - two
+   - three
+   - four
  - Removed thing

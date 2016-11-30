@@ -30,13 +30,15 @@ All of your javascript goes here. You may use jQuery also, if you wish.
 
 1. **Don't bite off more than you can chew!**
 2. **Focus on your strengths!** If your group feels very creative and strong with HTML/CSS then focus on that... but it had better be original and look amazing! (And of course, you still need to use *some* JavaScript)
-3. **Browse the web for ideas**, but don't use someone else's code if you can't understand it!
-4. **Divide and conquer!** Teams work best when each member is given a task to solve. If you've got a *really* difficult task, maybe have everyone come up with their own solution and see whose solution is best!
+3. **Browse the web for ideas**, but don't use someone else's code if you can't understand it, and *customize it to your own needs.*
+4. **Divide and conquer!** Teams work best when each member is given a task to solve (Scrum Master, this is your job). If you've got a *really* difficult task, maybe have everyone come up with their own solution and see whose solution is best!
 
 ## Agile (or "Scrum") Programming
 
 ### Overview
-Work is broken down into manageable, bite-sized chunks called "Sprints". Each Sprint will consist of 1 week and should result in a **Potentially Shippable Product** with an incremental improvement upon the previous week. 
+Work is broken down into manageable, bite-sized chunks called **Sprints**. Each Sprint will consist of 1 week and should result in a **Potentially Shippable Product** with an incremental improvement upon the previous week.
+
+Video: [*Introduction to Scrum - 7 Minutes*](https://www.youtube.com/watch?v=9TycLR0TqFA)
 
 ### Definitions
 
@@ -66,14 +68,14 @@ Think of it this way: apps on your iPad get updated periodically. They haven't a
 
 ## Grading
 
-### Sprint Notes (10 points each / 60 points total / 44%)
+### Sprint Notes (10 points each / 80 points total / 51%)
 
-At the end of each week, Scrum Masters will submit their notes to Showbie for grading. The entire group will receive this grade.
+At the end of each week, Scrum Masters will submit their notes for grading. The entire group will receive this grade.
 
-### Halfway Point (25 points / 19%)
+### Halfway Point (25 points / 16%)
 
-Remember, at this point in the project your web app should be a "working" product. I will download the master branch of your code base and grade it according to the included final product's rubric (but cut in half). After this point, you should just be adding incremental features to your project.
+Remember, at this point in the project your web app should be a "working" product. I will download the dev branch of your code base and grade it according to the included final product's rubric (but cut in half). I will determine if it is ready to merge into the master branch ("release day"). Either way, you will continue by working on your dev branch.
 
-### Final Product (50 points / 37%)
+### Final Product (50 points / 32%)
 
 I will be grading the final product according to the included rubric. If nothing else, your code should at least tell me what it's *supposed* to do.

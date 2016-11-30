@@ -91,8 +91,7 @@ Describe your app here.
 
 ## Release Notes
 
-### Version 1.0
-This is our initial release. We hope you enjoy it!
+### Version 1.1
 
 #### Bug fixes
  - Fixed thing
@@ -107,3 +106,7 @@ This is our initial release. We hope you enjoy it!
    - three
    - four
  - Removed thing
+
+
+### Version 1.0
+This is our initial release. We hope you enjoy it!

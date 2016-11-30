@@ -89,7 +89,15 @@ Thank you for reading all of this. Now that you have your own project on GitHub,
 ## Description
 Describe your app here.
 
-## Release Notes
+## FAQs
+
+### How do I... ?
+Try doing this, that, or some other thing.
+
+### What if... ?
+Try doing this, that, or some other thing.
+
+## Changelog
 
 ### Version 1.1
 
@@ -107,8 +115,12 @@ Describe your app here.
    * four
  * Removed thing
  * + If you want to be fancy, you can add plus signs to indicate additions and
- * - Minus signs to indicate things you removed
-
+ * - minus signs to indicate things you removed, but be careful with the markdown
 
 ### Version 1.0
 This is our initial release. We hope you enjoy it!
+
+## Credits
+* Joe Schmoe
+* Bob Smith
+* Susan Johnson

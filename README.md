@@ -107,15 +107,15 @@ Try doing this, that, or some other thing.
 
 #### Changes
  * Added thing
- * Added other cool thing
+ * Removed thing
  * Added a group of related things:
    * one
    * two
    * three
    * four
- * Removed thing
- * + If you want to be fancy, you can add plus signs to indicate additions and
- * - minus signs to indicate things you removed, but be careful with the markdown
+ * If you want to be fancy, you can use a...
+   * + to indicate something added and a
+   * - to indicate something removed, just be careful with your markdown syntax!
 
 ### Version 1.0
 This is our initial release. We hope you enjoy it!

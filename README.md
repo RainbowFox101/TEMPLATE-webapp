@@ -85,7 +85,7 @@ Thank you for reading all of this. Now that you have your own project on GitHub,
 # Put your App Name Here!
 
 ## Description
-Describe your app here.
+Describe your app here!
 
 ## FAQs
 
@@ -112,7 +112,7 @@ Try doing this, that, or some other thing.
    * three
    * four
  * If you want to be fancy, you can use a...
-   * + to indicate something added and a
+   * + to indicate something added and a...
    * - to indicate something removed, just be careful with your markdown syntax!
 
 ### Version 1.0

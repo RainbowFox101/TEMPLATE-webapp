@@ -50,7 +50,6 @@ Video: [*Introduction to Scrum - 7 Minutes*](https://www.youtube.com/watch?v=9Ty
     - Beginning of the period: What will we do today?
     - End of the period: How did we do today?
     - End of each Sprint: Meet with the Product Owner to discuss progress.
-    - Update your change log (see below)
   - Determine which project everyone should be working on. Monitor their progress and assist as needed.
   - Approve/disapprove all Pull Requests.
   - Submit and assign bugs.

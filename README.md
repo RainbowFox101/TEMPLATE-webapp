@@ -45,7 +45,7 @@ Video: [*Introduction to Scrum - 7 Minutes*](https://www.youtube.com/watch?v=9Ty
 #### Roles
 
 - **Product Owner (Mr. Scheuerlein)**
-- **Scrum Master (rotation throughout)**: *You will run the meetings at the start and end of each period. At the end of the week, meet with the Product Owner to determine what goes into the Sprint Backlog for the next Sprint and how much value to assign to each User Story.*
+- **Scrum Master (rotation throughout)**: *You will run the meetings at the start and end of each period. Determine which projects everyone is working on. It will be your responsibility to approve/disapprove pull requests. At the end of the week, meet with the Product Owner to determine what goes into the Sprint Backlog for the next Sprint and how much value to assign to each User Story.*
 - **Team**: *Developers, testers, writers, etc. You may need to do some research to complete your project!*
 
 #### Artifacts

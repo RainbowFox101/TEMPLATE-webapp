@@ -69,7 +69,7 @@ Video: [*Introduction to Scrum - 7 Minutes*](https://www.youtube.com/watch?v=9Ty
 
 #### Potentially Shippable Product
 
-The idea here is that someone could download your web app and use it as is. Think iPad app you use: it hasn't always had all of the features that it does, but when it was first released it was "complete". Today's version is also "complete", they've just added features and fixed bugs over time. It's a process, but if it isn't ready, then it isn't potentially shippable.
+The idea here is that someone could download your web app and use it as is. Think of an iPad app you use: it hasn't always had all of the features that it does, but when it was first released it was "complete". Today's newer version is also "complete", they've just added features and fixed bugs over time. It's a process, but if it isn't ready, then it isn't potentially shippable.
 
 ## Grading
 

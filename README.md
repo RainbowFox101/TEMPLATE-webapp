@@ -36,7 +36,7 @@ All of your javascript goes here. You may use jQuery also, if you wish.
 ## Agile (or "Scrum") Programming
 
 ### Overview
-Work is broken down into manageable, bite-sized chunks called **Sprints**. Each Sprint will consist of 1 week and should result in a **Potentially Shippable Product** with an incremental improvement upon the previous week.
+Work is broken down into manageable, bite-sized chunks called **Sprints**. Each Sprint is one week long with the goal of producing a  **Potentially Shippable Product** with an incremental improvement upon the previous week.
 
 Video: [*Introduction to Scrum - 7 Minutes*](https://www.youtube.com/watch?v=9TycLR0TqFA)
 
@@ -58,7 +58,7 @@ Video: [*Introduction to Scrum - 7 Minutes*](https://www.youtube.com/watch?v=9Ty
 #### Artifacts
 
 - **Product Backlog**: *All the features you want in your final product.*
-- **User Stories**: *Features described as a story from the user's perspective: "I want ... so that..."*
+- **User Stories**: *Features described as a story from the user's perspective: "I want... so that..."*
 - **Sprint Backlog**: *The User Stories which you intend to complete this Sprint.*
 
 #### Ceremonies
